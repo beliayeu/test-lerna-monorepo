@@ -1,0 +1,29 @@
+{
+  "name": "packagec",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Andrei Beliayeu <Andrei_Beliayeu@epam.com>",
+  "homepage": "https://github.com/beliayeu/test-lerna-monorepo/tree/master/packages/packageC#readme",
+  "license": "ISC",
+  "main": "lib/packageC.js",
+  "dependencies": {
+    "lodash": "^4.17.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beliayeu/test-lerna-monorepo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/beliayeu/test-lerna-monorepo/issues"
+  }
+}
