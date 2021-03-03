@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/beliayeu/test-lerna-monorepo#readme",
   "dependencies": {
-    "lerna": "^3.22.1",
+    "lerna": "^4.0.0",
     "express": "^3.1.0",
     "request": "^2.3.0"
   }
